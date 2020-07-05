@@ -1,0 +1,5 @@
+GET http://localhost:8900/api/students/v1
+###
+DELETE http://localhost:8900/api/students/v1/1/remove
+###
+POST http://localhost:8900/api/students/v1
